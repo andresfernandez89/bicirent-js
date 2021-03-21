@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #edf2f4;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header__home {
+    background-image: url("../assets/images/fermin-rodriguez-penelas-Xqo5GVr0UEA-unsplash.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+h1 {
+    font-size: 2.5rem;
+    color: honeydew;
+    margin-left: 30px;
+}
+h2 {
+    font-size: 3rem;
+}
+.header__menu {
+    background-color: #f8f9fa;
+}
+.header__sub {
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    font-size: 2rem;
+    transform: translate(-50%, -50%);
+    width: 53%;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 20px;
+}
+.header__sub p {
+    color: black;
+}
+#tarifas {
+    background-color: #c1fba4;
+}
+#infoRent__image img {
+    height: 250px;
+    width: 350px;
+    border-radius: 50%;
+}
+#faqs {
+    background-color: #e9ecef;
+}
+#contact {
+    /* background-color: #90f1ef; */
+    background-image: url("../assets/images/norali-nayla-tH3e-4QTuwk-unsplash.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;    
+}
+#contact form {
+    background-color: #e9ecef;
+    padding: 20px;
+}
+.contact__info h2 {
+    color: #e9ecef;
+}
+.contact__info p {
+    font-size: 1.3rem;
+}
+#pizarra {
+    height: auto;
+    padding: 10px 0;
+}
+#cotizador {
+    background-color: #b7e4c7;
+    border-radius: 10px;
+}
+#btnComprar, #btnActualizar {
+    display: inline-block;
+    text-align: center;
+    margin: 25px;
+}
+#presupuesto {
+    display: none;
+    font-size: 1.25rem;
+}
+#finalPrice {
+    display: none;
+    font-size: 2rem;
+}
+#accordion a {
+    font-size: 1.5rem;
+}
+#formulario {
+    margin: 120px auto;
+}
+#detalle {
+    margin-top: 100px;
+}
+.social__icons img {
+    width: 40px;
+    height: 40px;
+}
+.buttonIcon img {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    z-index: 99;
+}
+.footer__menu {
+    font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 576px) {
+    h1 {
+        font-size: 1.75rem;
+    }
+    .header__sub {
+        font-size: 1.25rem;
+    }
+    #cFile {
+        font-size: smaller;
+    }
+    .buttonIcon img {
+        width: 40px;
+        height: 40px;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+@media (min-width: 576px) and (max-width: 990px) {
+    .header__sub {
+        font-size: 1.75rem;
+    }
+    #cFile {
+        font-size: smaller;
+    }
+    .footer__menu {
+        font-size: 1.25rem;
+    }
+}

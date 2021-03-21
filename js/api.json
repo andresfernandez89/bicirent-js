@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "City Tour Mar del Plata",
+        "image": "http://placehold.it/700x300",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.",
+        "precio": "$2199",
+        "dia": "jueves"
+    },
+    {
+        "id": 2,
+        "nombre": "Laguna y Sierra de los Padres",
+        "image": "http://placehold.it/700x300",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.",
+        "precio": "$2299",
+        "dia": "viernes"
+    },
+    {
+        "id": 3,
+        "nombre": "Miramar Full Day",
+        "image": "http://placehold.it/700x300",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.",
+        "precio": "$2399",
+        "dia": "sabado"
+    },
+    {
+        "id": 4,
+        "nombre": "Mar del Plata Cultural",
+        "image": "http://placehold.it/700x300",
+        "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.",
+        "precio": "$2499",
+        "dia": "domingo"
+    }
+]
