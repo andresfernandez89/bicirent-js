@@ -1,8 +1,8 @@
-BiciRent - Alquiler de Bicicletas
+<strong>BiciRent - Alquiler de Bicicletas</strong>
 
-Ver Proyecto
+<a href="https://andresfernandez89.github.io/bicirent-js/" target="_blank"><strong>Ver Proyecto</strong><a/>
 
-El Sitio Web se desarrollara a lo largo del curso de Javascriop dictado por Coderhouse.
+Sitio desarrollado a lo largo del curso de Javascriop.
 
 El proyecto es de una empresa de alquiler de bicicletas.
 
@@ -12,4 +12,4 @@ Acepto sugerencias y estoy abierto a nuevos trabajos.
 
 Activamente buscando la insercion laboral IT.
 
-Contacto: LINKEDIN
+Contacto: <a href="https://www.linkedin.com/in/andresfernandezdeveloper/" target="_blank"><strong>LINKEDIN</strong><a/>
