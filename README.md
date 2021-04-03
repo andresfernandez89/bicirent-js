@@ -2,7 +2,7 @@
 
 <a href="https://andresfernandez89.github.io/bicirent-js/" target="_blank"><strong>Ver Proyecto</strong><a/>
 
-Sitio desarrollado a lo largo del curso de Javascript.
+Sitio Web desarrollado a lo largo del curso de Javascript.
 
 El proyecto es de una empresa de alquiler de bicicletas.
 
